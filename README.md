@@ -1,0 +1,2 @@
+# PodstawyProgramowania
+Pierwsza wersja kodu!
